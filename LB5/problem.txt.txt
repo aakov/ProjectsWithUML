@@ -1,0 +1,3 @@
+System dla zarządzania żółnierzami 
+Batalion ustala dane żółnierzy, jest tworzony wraz z żółnierzami nie można od niego odłączyć żółnierzy, Soldier ma dane, wykonuje czynnośći, 
+Commander wydaje rozkazy i może podnieść żółnierza w randze. 
